@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LoicDelplace
-- 👀 I’m interested in... Actually I don't really know what I want..
 - 🌱 I’m currently learning Software Development & Mobile applications
 - 📫 How to reach me :
   -Mail : loic.delplace59@gmail.com
