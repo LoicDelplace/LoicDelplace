@@ -9,4 +9,4 @@
   
   -Feel free to check my website : 
   
-  -Contact me if u wanna build a project together !
+  -Contact me if you wanna build a project together !
