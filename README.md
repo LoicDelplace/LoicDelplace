@@ -8,8 +8,8 @@ With a strong foundation in software development from my BTS SNIR (Development i
 
 ## 🚀 Skills
 - Front-end Development: HTML, CSS, JavaScript
-- Database: MySQL, MongoDB
-- Frameworks: React, Vue.js (On progress)
+- Database: MySQL, MongoDB (In progress)
+- Frameworks: React, Vue.js (In progress)
 - Programming language: C, C++, C#
 - Version Control: Git
 
