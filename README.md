@@ -1,3 +1,4 @@
+![Loïc Developpeur Formation](https://imgur.com/LsnwpZ1.png)
 # 👋 Hello, I'm Loïc DELPLACE!
 
 ## 🌟 About Me
@@ -22,4 +23,3 @@ With a strong foundation in software development from my BTS SNIR (Development i
 I am currently seeking a challenging and rewarding web development internship starting in November 2024. However, I am also open to exploring potential opportunities for an apprenticeship starting in January 2024. I am excited to collaborate on exciting projects and contribute to the success of your team.
 
 🌐 Feel free to reach out to me for any collaboration on your projects. I'm always happy to connect!
-
