@@ -14,8 +14,8 @@ With a strong foundation in software development from my BTS SNIR (Development i
 
 ## 📫 Get in Touch
 - Email: [loic.delplace59@gmail.com](mailto:loic.delplace59@gmail.com)
-- LinkedIn: [@LoicDelplace/](https://www.linkedin.com/in/loicdelplace/)
-- Website: [yourwebsite.com](https://www.loicdevplace.com)
+- LinkedIn: [@LoicDelplace](https://www.linkedin.com/in/loicdelplace/)
+- Website: [www.loicdevplace.com](https://www.loicdevplace.com)
 - Resume: [Get my resume here](https://www.loicdevplace.com/resume)
 
 ## 💼 Looking for Opportunities
