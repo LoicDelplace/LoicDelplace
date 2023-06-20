@@ -1,4 +1,4 @@
-![Loïc Developpeur Formation](https://imgur.com/LsnwpZ1.png)
+![Loic in Training dev](https://imgur.com/JBn8EER.png)
 # 👋 Hello, I'm Loïc DELPLACE!
 
 ## 🌟 About Me
