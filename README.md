@@ -17,7 +17,7 @@ With a strong foundation in software development from my BTS SNIR (Development i
 - Email: [loic.delplace59@gmail.com](mailto:loic.delplace59@gmail.com)
 - LinkedIn: [@LoicDelplace](https://www.linkedin.com/in/loicdelplace/)
 - Website: [www.loicdevplace.com](https://www.loicdevplace.com)
-- Resume: [Get my resume here](https://www.loicdevplace.com/resume/CV-Loic-DELPLACE-stage.pdf)
+- Resume: [Get my resume here](https://www.loicdevplace.com/resume/CV-Loic-DELPLACE.pdf)
 
 ## 💼 Looking for Opportunities
 I am currently seeking a challenging and rewarding web development internship starting in November 2024. However, I am also open to exploring potential opportunities for an apprenticeship starting in January 2024. I am excited to collaborate on exciting projects and contribute to the success of your team.
