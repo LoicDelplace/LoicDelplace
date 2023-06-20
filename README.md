@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoicDelplace
-- 🌱 I’m currently learning Software Development & Mobile applications
+- 🌱 I’m currently learning Development
 - 📫 How to reach me :
   -Mail : loic.delplace59@gmail.com
   -LinkedIn: [loicdelplace](https://www.linkedin.com/in/loicdelplace/)
