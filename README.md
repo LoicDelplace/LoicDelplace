@@ -1,6 +1,7 @@
 ![Loic in Training dev](https://imgur.com/JBn8EER.png)
 # 👋 Hello, I'm Loïc DELPLACE!
-# Last project : portfolio-v1 ([Readme here](https://github.com/LoicDelplace/portfolio-v1/blob/main/README.md))
+# Portfolio-v1 : ([Readme here](https://github.com/LoicDelplace/portfolio-v1/blob/main/README.md))
+# Last project : Uber Chips ([UberChips here](https://github.com/LoicDelplace/UberChips))
 ## 🌟 About Me
 I am a passionate web developer in the process of transitioning from a career as a bartender.
 Currently, I am pursuing a professional title as a Web & Mobile Web Developer at M2I Formation. (Villeneuve-d'Ascq,France)
