@@ -1,6 +1,6 @@
 ![Loic in Training dev](https://imgur.com/JBn8EER.png)
 # 👋 Hello, I'm Loïc DELPLACE!
-# Portfolio-v1 : ([Readme here](https://github.com/LoicDelplace/portfolio-v1/blob/main/README.md))
+# Portfolio-VueJS : ([Readme here](https://github.com/LoicDelplace/portfolio-vuejs/blob/main/README.md))
 # Last project : Uber Chips ([UberChips here](https://github.com/LoicDelplace/UberChips))
 ## 🌟 About Me
 I am a passionate web developer in the process of transitioning from a career as a bartender.
