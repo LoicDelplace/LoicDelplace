@@ -1,7 +1,5 @@
 ![Loic in Training dev](https://imgur.com/JBn8EER.png)
 # 👋 Hello, I'm Loïc DELPLACE!
-# Portfolio-VueJS : ([Readme here](https://github.com/LoicDelplace/portfolio-vuejs/blob/main/README.md))
-# Last project : Uber Chips ([UberChips here](https://github.com/LoicDelplace/UberChips))
 ## 🌟 About Me
 I am a passionate web developer in the process of transitioning from a career as a bartender.
 Currently, I am pursuing a professional title as a Web & Mobile Web Developer at M2I Formation. (Villeneuve-d'Ascq,France)
@@ -9,9 +7,9 @@ With a strong foundation in software development from my BTS SNIR (Development i
 
 ## 🚀 Skills
 - Front-end Development: HTML, CSS, JavaScript
-- Database: MySQL, MongoDB (In progress)
-- Frameworks: React (to learn), Vue.js (In progress)
-- Programming language: C, C++, C#
+- Back-end : Php, MySQL, MongoDB
+- Frameworks (Studied): Vue.js, Laravel
+- Programming language (Studies): C, C++, C#
 - Version Control: Git
 
 ## 📫 Get in Touch
