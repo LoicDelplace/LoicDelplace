@@ -1,24 +1,24 @@
 ![Loic in Training dev](https://imgur.com/JBn8EER.png)
 # 👋 Hello, I'm Loïc DELPLACE!
 ## 🌟 About Me
-I am a passionate web developer in the process of transitioning from a career as a bartender.
-Currently, I am pursuing a professional title as a Web & Mobile Web Developer at M2I Formation. (Villeneuve-d'Ascq,France)
-With a strong foundation in software development from my BTS SNIR (Development in C#) and ongoing training, I am eager to contribute to innovative web projects.
+I am a dedicated web developer who has successfully completed training and is now transitioning from a career as a bartender.
+I have recently earned a professional title as a Web & Mobile Web Developer from M2I Formation in Villeneuve-d'Ascq, France.
+Building upon a solid foundation in software development acquired during my BTS SNIR (Development in C#) and further strengthened by my recent training, I am eager to apply my skills and contribute to innovative web projects.
 
 ## 🚀 Skills
 - Front-end Development: HTML, CSS, JavaScript
 - Back-end : Php, MySQL, MongoDB
-- Frameworks (Studied): Vue.js, Laravel
-- Programming language (Studies): C, C++, C#
+- Frameworks: Vue.js, Laravel
+- Programming language: C, C++, C#
 - Version Control: Git
 
 ## 📫 Get in Touch
 - Email: [loic.delplace59@gmail.com](mailto:loic.delplace59@gmail.com)
 - LinkedIn: [@LoicDelplace](https://www.linkedin.com/in/loicdelplace/)
 - Website: [www.loicdevplace.com](https://www.loicdevplace.com)
-- Resume: [Get my resume here](https://www.loicdevplace.com/resume/CV-Loic-DELPLACE.pdf)
+- Resume: [Get my resume here](https://loicdevplace.com/Loic-Delplace-CV.pdf)
 
 ## 💼 Looking for Opportunities
-I am currently seeking a challenging and rewarding web development internship starting in November 2023. However, I am also open to exploring potential opportunities for an apprenticeship starting in January 2024. I am excited to collaborate on exciting projects and contribute to the success of your team.
+I am actively pursuing an engaging and fulfilling opportunity in web development, aiming for an apprenticeship starting in September 2024. Alternatively, I am open to exploring job opportunities prior to that date. I am enthusiastic about contributing to innovative projects and adding value to your team's success.
 
 🌐 Feel free to reach out to me for any collaboration on your projects. I'm always happy to connect!
