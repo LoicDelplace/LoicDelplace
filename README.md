@@ -1,4 +1,5 @@
-![Loic in Training dev](https://imgur.com/JBn8EER.png)
+![Loic dev](https://imgur.com/TEP39pz.png)
+https://imgur.com/TEP39pz
 # 👋 Hello, I'm Loïc DELPLACE!
 ## 🌟 About Me
 I am a dedicated web developer who has successfully completed training and is now transitioning from a career as a bartender.
