@@ -16,7 +16,7 @@ Building upon a solid foundation in software development acquired during my BTS 
   ### ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)
 - Version Control: Git
   ### ![My Skills](https://skillicons.dev/icons?i=git)
-
+###### [Thanks tandpfun for icons](https://github.com/tandpfun/skill-icons?tab=readme-ov-file)
 ## 📫 Get in Touch
 - Email: [loic.delplace59@gmail.com](mailto:loic.delplace59@gmail.com)
 - LinkedIn: [@LoicDelplace](https://www.linkedin.com/in/loicdelplace/)
