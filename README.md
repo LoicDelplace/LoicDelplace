@@ -6,7 +6,7 @@ I have recently earned a professional title as a Web & Mobile Web Developer from
 Building upon a solid foundation in software development acquired during my BTS SNIR (Development in C#) and further strengthened by my recent training, I am eager to apply my skills and contribute to innovative web projects.
 
 ## 🚀 Skills
-- Front-end Development: HTML, CSS, JavaScript \n
+- Front-end Development: HTML, CSS, JavaScript
   ### ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 - Back-end : Php, MySQL, MongoDB
   ### ![My Skills](https://skillicons.dev/icons?i=php,mysql,mongodb)
